@@ -1,0 +1,2 @@
+import customtkinter
+customtkinter.CTk()
